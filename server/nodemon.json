@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "uploads/*",
+        "*.sqlite",
+        "*.db",
+        "database.sqlite"
+    ]
+}
